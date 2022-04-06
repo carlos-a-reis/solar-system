@@ -10,9 +10,9 @@ class SolarSystem extends React.Component {
       return <PlanetCard planetName={ name } planetImage={ image } key={ index } />;
     });
     return (
-      <div data-testid="solar-system">
+      <div data-testid="solar-system" className="solar-system">
         <Title headline="Planetas" />
-        <div id="planets">
+        <div className="planetsList">
           {planetList}
         </div>
       </div>
