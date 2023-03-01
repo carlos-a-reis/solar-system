@@ -1,7 +1,7 @@
 import React from 'react';
-import Title from './Title';
-import MissionsCard from './MissionCard';
-import missions from '../data/missions';
+import Title from '../Title/Title';
+import MissionsCard from '../MissionCard/MissionCard';
+import missions from '../../data/missions';
 
 class Missions extends React.Component {
   render() {
