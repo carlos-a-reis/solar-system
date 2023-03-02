@@ -1,13 +1,42 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Solar System
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Contexto
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Este projeto consiste em uma aplicação em __JavaScript__ com __React__ e __Styled Components__ que exibe todos os planetas do Sistema Solar, bem como informações sobre diversas missões espaciais que ocorreram ao longo da história.
+
+## Componentes
+
+O projeto utiliza os seguintes componentes:
+
+- __SolarSystem__: componente que exibe a visualização do Sistema Solar, com imagens dos planetas e seus respectivas nomes;
+
+- __Missions__: componente que exibe as informações sobre as missões espaciais.
+
+## Pré-requisitos
+
+Para executar este projeto, é necessário ter instalado em sua máquina o [Node.js](https://nodejs.org/en/) e o [npm](https://www.npmjs.com/).
+
+## Como executar o projeto
+
+Para executar o projeto, siga os passos abaixo:
+
+1. Clone o repositório em sua máquina:
+```bash
+git clone git@github.com:carlos-a-reis/solar-system.git
+```
+
+2.  Instale as dependências do projeto:
+```bash
+cd solar-system
+npm install
+```
+
+3.  Execute o projeto:
+```bash
+npm start
+```
+
+4. Acesse o projeto em seu navegador:
+```bash
+http://localhost:3000
+```
