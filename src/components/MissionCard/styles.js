@@ -5,7 +5,7 @@ export const MissionCard = styled.div`
   flex-direction: column;
   width: 350px;
   height: 280px;
-  margin: 20px;
+  margin: 30px;
   border: 1px solid white;
   border-radius: 20px;
   background-color: rgb(0, 0, 0, 0.6);
