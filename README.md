@@ -12,6 +12,10 @@ O projeto utiliza os seguintes componentes:
 
 - __Missions__: componente que exibe as informações sobre as missões espaciais.
 
+## Tecnologias utilizadas
+
+> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [React](https://pt-br.reactjs.org/) e [Styled Components](https://styled-components.com/)
+
 ## Pré-requisitos
 
 Para executar este projeto, é necessário ter instalado em sua máquina o [Node.js](https://nodejs.org/en/) e o [npm](https://www.npmjs.com/).
