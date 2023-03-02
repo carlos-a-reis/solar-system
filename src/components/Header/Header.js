@@ -1,10 +1,11 @@
 import React from 'react';
+import HeaderH1 from './styles';
 
 class Header extends React.Component {
   render() {
     return (
       <header>
-        <h1 className="header">Sistema Solar</h1>
+        <HeaderH1>Sistema Solar</HeaderH1>
       </header>
     );
   }
